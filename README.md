@@ -5,6 +5,8 @@ Happy foi um projeto desonvolvido na [Next Level Week](https://nextlevelweek.com
 
 
 
+
+
 # 🎓 Informações 
 
 Eu participei dessa semana e aprendi várias coisas ao longo dos dias e a didatica foi ótima. 😅 
