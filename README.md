@@ -1,2 +1,4 @@
 # NLW3HAPPY-ROCKETSEAT
-Programa web para encontrar orfanatos próximos.
+
+
+Happy foi um projeto desonvolvido na <strong>Next Level Week<strong/>
